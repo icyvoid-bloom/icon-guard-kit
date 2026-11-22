@@ -1,0 +1,23 @@
+# 运行产物
+*.log
+*.log.old
+__pycache__/
+*.pyc
+
+# 本地备份与测试输出
+backup/
+icon_out/
+*.bak
+*.bak_*
+demo_*
+out/
+
+# 个人配置（示例文件会被保留）
+tools/icon_guard_config.json
+
+# 图片素材与图标成品：本仓库不收录
+*.ico
+*.png
+*.jpg
+*.jpeg
+*.webp
