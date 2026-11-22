@@ -1,0 +1,15 @@
+{
+  "poll_seconds": 2,
+  "targets": [
+    {
+      "lnk": "%USERPROFILE%\\Desktop\\SomeApp.lnk",
+      "ico": "C:\\Icons\\SomeApp.ico",
+      "note": "示例：把路径换成你自己的快捷方式和 ico"
+    },
+    {
+      "lnk": "%PUBLIC%\\Desktop\\AnotherApp.lnk",
+      "ico": "C:\\Icons\\AnotherApp.ico",
+      "note": "公共桌面上的快捷方式（安装到所有用户时常见）"
+    }
+  ]
+}
